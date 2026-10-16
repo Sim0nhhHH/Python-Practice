@@ -1,0 +1,10 @@
+﻿# Python 编译缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境（以后会用到）
+.venv/
+venv/
+
+# 编辑器本地配置
+.vscode/
