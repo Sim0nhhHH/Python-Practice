@@ -8,3 +8,5 @@ venv/
 
 # 编辑器本地配置
 .vscode/
+
+*.csv
